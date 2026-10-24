@@ -56,10 +56,10 @@ Risk score = impact × likelihood. Opportunity score = value × (6 − effort). 
 
 Workers in exposed occupations face prolonged income loss during adoption.
 
+Assessment confidence and limits: Medium. The ILO measures exposure, not inevitable job losses. This rating is a transition scenario, not a forecast of economy-wide unemployment.
+
 **Cause:** Organisations remove tasks and roles faster than viable alternatives emerge.
 **Consequence:** Persistent unemployment, wage pressure and regional hardship.
-
-Assessment confidence and limits: Medium. The ILO measures exposure, not inevitable job losses. This rating is a transition scenario, not a forecast of economy-wide unemployment.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -95,10 +95,10 @@ Assessment confidence and limits: Medium. The ILO measures exposure, not inevita
 
 Fewer junior assignments reduce opportunities to acquire experience.
 
+Assessment confidence and limits: Low-medium. Exposure research motivates this scenario but does not establish a general collapse in graduate hiring.
+
 **Cause:** Employers automate starter tasks without redesigning supervised learning.
 **Consequence:** Weaker social mobility and a future shortage of experienced practitioners.
-
-Assessment confidence and limits: Low-medium. Exposure research motivates this scenario but does not establish a general collapse in graduate hiring.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -134,10 +134,10 @@ Assessment confidence and limits: Low-medium. Exposure research motivates this s
 
 Workers and small organisations become dependent on a few powerful suppliers.
 
+Assessment confidence and limits: Medium. Distribution depends on market structure and policy; concentration is not an unavoidable technological outcome.
+
 **Cause:** Compute, data, distribution and switching barriers favour incumbents.
 **Consequence:** Less bargaining power and a narrower distribution of productivity gains.
-
-Assessment confidence and limits: Medium. Distribution depends on market structure and policy; concentration is not an unavoidable technological outcome.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -173,10 +173,10 @@ Assessment confidence and limits: Medium. Distribution depends on market structu
 
 Workers experience sustained pressure from automated monitoring and targets.
 
+Assessment confidence and limits: Medium. A deployment-dependent risk; automation can also remove burdens. Local worker evidence is essential.
+
 **Cause:** Speed gains become higher quotas and intrusive performance surveillance.
 **Consequence:** Burnout, reduced discretion and disputes over unfair evaluations.
-
-Assessment confidence and limits: Medium. A deployment-dependent risk; automation can also remove burdens. Local worker evidence is essential.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -212,10 +212,10 @@ Assessment confidence and limits: Medium. A deployment-dependent risk; automatio
 
 Affected groups lose opportunities to feel competent, useful and recognised.
 
+Assessment confidence and limits: Low. This is a social hypothesis requiring longitudinal evidence; the labour source provides context, not proof of this consequence.
+
 **Cause:** Work and valued contributions disappear without meaningful replacements.
 **Consequence:** Withdrawal, distress and reduced participation despite possible income support.
-
-Assessment confidence and limits: Low. This is a social hypothesis requiring longitudinal evidence; the labour source provides context, not proof of this consequence.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -251,10 +251,10 @@ Assessment confidence and limits: Low. This is a social hypothesis requiring lon
 
 Some users become dependent on chatbots and reduce human contact.
 
+Assessment confidence and limits: Medium for concern, low for population prevalence. MIT found heavier voluntary use associated with poorer outcomes, not a causal effect of assigned conditions.
+
 **Cause:** Always-available companionship combines with engagement incentives and personal vulnerability.
 **Consequence:** Isolation and difficulty disengaging from the service.
-
-Assessment confidence and limits: Medium for concern, low for population prevalence. MIT found heavier voluntary use associated with poorer outcomes, not a causal effect of assigned conditions.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -290,10 +290,10 @@ Assessment confidence and limits: Medium for concern, low for population prevale
 
 Vulnerable users receive responses that reinforce harmful beliefs or unsafe choices.
 
+Assessment confidence and limits: Medium for the mechanism; incidence and attribution remain uncertain. Impact 3 reflects register-wide scale, not the seriousness of any individual death or injury.
+
 **Cause:** Agreeable language and unreliable judgement are mistaken for qualified support.
 **Consequence:** Repeated serious harm to individuals and delayed access to appropriate care.
-
-Assessment confidence and limits: Medium for the mechanism; incidence and attribution remain uncertain. Impact 3 reflects register-wide scale, not the seriousness of any individual death or injury.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -329,10 +329,10 @@ Assessment confidence and limits: Medium for the mechanism; incidence and attrib
 
 Learners and professionals lose competence needed to challenge AI outputs.
 
+Assessment confidence and limits: Medium. Agency research identifies tensions; durable population-wide skill decline remains uncertain.
+
 **Cause:** Tasks are completed automatically before underlying skills develop or are practised.
 **Consequence:** Shallower learning and weaker oversight of future automated decisions.
-
-Assessment confidence and limits: Medium. Agency research identifies tensions; durable population-wide skill decline remains uncertain.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -368,10 +368,10 @@ Assessment confidence and limits: Medium. Agency research identifies tensions; d
 
 Impersonation and fabricated intimate media produce recurring harm.
 
+Assessment confidence and limits: High that misuse occurs; scale and incremental harm attributable to AI vary.
+
 **Cause:** Generation tools reduce the cost of convincing fraudulent content.
 **Consequence:** Financial loss, coercion and reputational damage.
-
-Assessment confidence and limits: High that misuse occurs; scale and incremental harm attributable to AI vary.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -407,10 +407,10 @@ Assessment confidence and limits: High that misuse occurs; scale and incremental
 
 Citizens struggle to verify evidence and distinguish genuine events from fabrication.
 
+Assessment confidence and limits: Medium. Generating misinformation is easier to demonstrate than changing election outcomes.
+
 **Cause:** Cheap synthetic material circulates while authentic evidence is dismissed as fake.
 **Consequence:** Weaker accountability and confidence in public information.
-
-Assessment confidence and limits: Medium. Generating misinformation is easier to demonstrate than changing election outcomes.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -446,10 +446,10 @@ Assessment confidence and limits: Medium. Generating misinformation is easier to
 
 Organised synthetic participation distorts consultations and political debate.
 
+Assessment confidence and limits: Medium for capability; low-medium for effects at the stated institutional scale.
+
 **Cause:** Bots and tailored persuasion imitate independent public opinion.
 **Consequence:** Officials and citizens misunderstand public preferences.
-
-Assessment confidence and limits: Medium for capability; low-medium for effects at the stated institutional scale.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -485,10 +485,10 @@ Assessment confidence and limits: Medium for capability; low-medium for effects 
 
 Institutions use AI to profile and target people at scale.
 
+Assessment confidence and limits: Medium. Likelihood is highly jurisdiction-dependent; this rating uses the UK/European baseline.
+
 **Cause:** Data aggregation and inference expand monitoring without adequate limits.
 **Consequence:** Chilling effects, discriminatory enforcement and suppression of dissent.
-
-Assessment confidence and limits: Medium. Likelihood is highly jurisdiction-dependent; this rating uses the UK/European baseline.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -524,10 +524,10 @@ Assessment confidence and limits: Medium. Likelihood is highly jurisdiction-depe
 
 People receive erroneous or discriminatory decisions without meaningful recourse.
 
+Assessment confidence and limits: Medium. The OECD identifies the mechanism; local disparate-impact and appeal data are required.
+
 **Cause:** Skewed data and opaque automation combine with weak review processes.
 **Consequence:** Lost opportunities, wrongful exclusions and declining institutional trust.
-
-Assessment confidence and limits: Medium. The OECD identifies the mechanism; local disparate-impact and appeal data are required.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -563,10 +563,10 @@ Assessment confidence and limits: Medium. The OECD identifies the mechanism; loc
 
 Sensitive information is disclosed through prompts, retrieval or connected tools.
 
+Assessment confidence and limits: Medium. Severity depends on the data and deployed architecture.
+
 **Cause:** Excess access and inappropriate data handling expose material beyond its intended audience.
 **Consequence:** Loss of confidentiality, trust and control over personal information.
-
-Assessment confidence and limits: Medium. Severity depends on the data and deployed architecture.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -602,10 +602,10 @@ Assessment confidence and limits: Medium. Severity depends on the data and deplo
 
 Plausible but incorrect recommendations are relied upon in consequential workflows.
 
+Assessment confidence and limits: High for errors occurring; medium for aggregate harm at this scale.
+
 **Cause:** Users over-trust generated answers and review is ineffective.
 **Consequence:** Preventable loss, harmful decisions and costly rework.
-
-Assessment confidence and limits: High for errors occurring; medium for aggregate harm at this scale.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -641,10 +641,10 @@ Assessment confidence and limits: High for errors occurring; medium for aggregat
 
 Attackers or compromised agents exploit connected systems.
 
+Assessment confidence and limits: Medium. Narrow cyber capabilities do not establish reliable autonomous compromise of arbitrary systems.
+
 **Cause:** Automation accelerates attacks while agents receive excessive permissions.
 **Consequence:** Major breaches and interruption of essential services.
-
-Assessment confidence and limits: Medium. Narrow cyber capabilities do not establish reliable autonomous compromise of arbitrary systems.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -680,10 +680,10 @@ Assessment confidence and limits: Medium. Narrow cyber capabilities do not estab
 
 Common models or providers fail across multiple essential services.
 
+Assessment confidence and limits: Medium. This scenario extends established dependency-management concerns; cross-sector frequency is uncertain.
+
 **Cause:** Concentrated dependencies and correlated errors defeat nominal redundancy.
 **Consequence:** Extended outages and simultaneous operational failures.
-
-Assessment confidence and limits: Medium. This scenario extends established dependency-management concerns; cross-sector frequency is uncertain.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -719,10 +719,10 @@ Assessment confidence and limits: Medium. This scenario extends established depe
 
 AI infrastructure imposes material local energy and resource pressures.
 
+Assessment confidence and limits: Medium. IEA supports growing electricity demand; local water, price and emissions effects require separate assessment.
+
 **Cause:** New demand arrives faster than adequate supply and planning.
 **Consequence:** Community costs, constrained infrastructure and avoidable environmental burden.
-
-Assessment confidence and limits: Medium. IEA supports growing electricity demand; local water, price and emissions effects require separate assessment.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -758,10 +758,10 @@ Assessment confidence and limits: Medium. IEA supports growing electricity deman
 
 AI materially contributes to a mass-casualty event or dangerous military escalation.
 
+Assessment confidence and limits: Low. Likelihood 2 is a planning placeholder, with a plausible assessment range of 1–3. Separate biological and military scenarios when specialist stewards join.
+
 **Cause:** Dangerous capabilities are misused or coupled to decisions with insufficient safeguards.
 **Consequence:** Catastrophic human harm and international instability.
-
-Assessment confidence and limits: Low. Likelihood 2 is a planning placeholder, with a plausible assessment range of 1–3. Separate biological and military scenarios when specialist stewards join.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -797,10 +797,10 @@ Assessment confidence and limits: Low. Likelihood 2 is a planning placeholder, w
 
 Future systems evade containment with systemic consequences.
 
+Assessment confidence and limits: Low. Experts disagree substantially. Likelihood 2 is a planning placeholder, range 1–3; laboratory behaviours are not evidence of a real-world takeover.
+
 **Cause:** Capabilities and autonomy exceed effective human control.
 **Consequence:** Potentially irreversible widespread harm.
-
-Assessment confidence and limits: Low. Experts disagree substantially. Likelihood 2 is a planning placeholder, range 1–3; laboratory behaviours are not evidence of a real-world takeover.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -836,10 +836,10 @@ Assessment confidence and limits: Low. Experts disagree substantially. Likelihoo
 
 Commercial or geopolitical competition repeatedly bypasses safety and public accountability.
 
+Assessment confidence and limits: Medium. A cross-cutting driver; do not add its score to downstream harms.
+
 **Cause:** Short-term incentives reward deployment while costs fall on others.
 **Consequence:** Preventable harms persist and remediation loses legitimacy.
-
-Assessment confidence and limits: Medium. A cross-cutting driver; do not add its score to downstream harms.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -875,10 +875,10 @@ Assessment confidence and limits: Medium. A cross-cutting driver; do not add its
 
 Blanket restrictions or disproportionate compliance exclude beneficial uses and smaller providers.
 
+Assessment confidence and limits: Low-medium. This is a policy-design scenario, not an argument against safeguards.
+
 **Cause:** Rules ignore use-case differences or favour incumbents.
 **Consequence:** Forgone benefits and reduced choice.
-
-Assessment confidence and limits: Low-medium. This is a policy-design scenario, not an argument against safeguards.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -914,10 +914,10 @@ Assessment confidence and limits: Low-medium. This is a policy-design scenario, 
 
 People with limited access or unsupported needs receive inferior service.
 
+Assessment confidence and limits: Medium. Local user testing is needed to establish who is disadvantaged.
+
 **Cause:** AI becomes the default interface without accessible alternatives.
 **Consequence:** Unequal access and inability to resolve important problems.
-
-Assessment confidence and limits: Medium. Local user testing is needed to establish who is disadvantaged.
 
 ### Controls
 | Control | Type | Effectiveness |
@@ -954,10 +954,10 @@ Assessment confidence and limits: Medium. Local user testing is needed to establ
 
 Pilot AI assistance for a bounded, repetitive workflow with human review.
 
+Assessment confidence and limits: Medium confidence. Local gains must include review, errors, integration and training costs; one study does not establish universal savings.
+
 **Rationale:** Field research shows productivity gains in a customer-support setting, with considerable variation across workers.
 **Benefit:** Release time for difficult cases, better service or shorter working hours.
-
-Assessment confidence and limits: Medium confidence. Local gains must include review, errors, integration and training costs; one study does not establish universal savings.
 
 ### Enablers
 | Enabler | Type | Status |
@@ -994,10 +994,10 @@ Assessment confidence and limits: Medium confidence. Local gains must include re
 
 Co-design a limited text, image-description or speech assistance service with disabled users.
 
+Assessment confidence and limits: Medium for feasibility, low-medium for this proposed programme. A vendor description establishes availability, not independent proof of effectiveness.
+
 **Rationale:** Existing systems demonstrate assistive functions; suitability depends on the user and task.
 **Benefit:** Greater independence and easier access to information.
-
-Assessment confidence and limits: Medium for feasibility, low-medium for this proposed programme. A vendor description establishes availability, not independent proof of effectiveness.
 
 ### Enablers
 | Enabler | Type | Status |
@@ -1034,10 +1034,10 @@ Assessment confidence and limits: Medium for feasibility, low-medium for this pr
 
 Trial a subject-specific tutor alongside teachers and independent assessment.
 
+Assessment confidence and limits: Medium within bounded instruction. Evidence from one setting does not establish durable learning gains across ages or subjects.
+
 **Rationale:** A controlled college-course study supports testing carefully designed AI tutoring.
 **Benefit:** More timely feedback and help tailored to the learner.
-
-Assessment confidence and limits: Medium within bounded instruction. Evidence from one setting does not establish durable learning gains across ages or subjects.
 
 ### Enablers
 | Enabler | Type | Status |
@@ -1074,10 +1074,10 @@ Assessment confidence and limits: Medium within bounded instruction. Evidence fr
 
 Offer paid practice using AI assistance while preserving independent judgement.
 
+Assessment confidence and limits: Medium for assisted performance; transfer to independent competence and employment outcomes must be tested.
+
 **Rationale:** Workplace evidence suggests some less-experienced staff can benefit particularly from assistance.
 **Benefit:** Broader access to useful skills and better mobility within participating organisations.
-
-Assessment confidence and limits: Medium for assisted performance; transfer to independent competence and employment outcomes must be tested.
 
 ### Enablers
 | Enabler | Type | Status |
@@ -1114,10 +1114,10 @@ Assessment confidence and limits: Medium for assisted performance; transfer to i
 
 Provide source-linked explanations and navigation for one public service.
 
+Assessment confidence and limits: Medium. Start with navigation, then assess any proposal involving eligibility decisions separately.
+
 **Rationale:** Government use cases indicate potential for more responsive services.
 **Benefit:** Fewer failed applications and less effort locating the right human support.
-
-Assessment confidence and limits: Medium. Start with navigation, then assess any proposal involving eligibility decisions separately.
 
 ### Enablers
 | Enabler | Type | Status |
@@ -1154,10 +1154,10 @@ Assessment confidence and limits: Medium. Start with navigation, then assess any
 
 Use suitable specialist AI to prioritise hypotheses in one funded research programme.
 
+Assessment confidence and limits: Medium for modelling capability, low for downstream clinical or commercial value. Predicted structures do not prove therapeutic efficacy.
+
 **Rationale:** AlphaFold 3 demonstrates advances in biomolecular structure prediction.
 **Benefit:** More informative experiments and potentially faster discovery.
-
-Assessment confidence and limits: Medium for modelling capability, low for downstream clinical or commercial value. Predicted structures do not prove therapeutic efficacy.
 
 ### Enablers
 | Enabler | Type | Status |
@@ -1194,10 +1194,10 @@ Assessment confidence and limits: Medium for modelling capability, low for downs
 
 Test forecasting or optimisation in one building, process or energy system.
 
+Assessment confidence and limits: Medium for a bounded application. Efficiency per task does not guarantee lower total consumption.
+
 **Rationale:** Energy analysis identifies AI applications as well as AI-related demand.
 **Benefit:** Lower net resource use where measured savings exceed the system footprint.
-
-Assessment confidence and limits: Medium for a bounded application. Efficiency per task does not guarantee lower total consumption.
 
 ### Enablers
 | Enabler | Type | Status |
@@ -1234,10 +1234,10 @@ Assessment confidence and limits: Medium for a bounded application. Efficiency p
 
 Help participants inspect and summarise a bounded public consultation.
 
+Assessment confidence and limits: Low-medium. This is a testable design hypothesis, not evidence that AI improves democratic legitimacy.
+
 **Rationale:** AI can help organise material, but summaries must retain minority views and contested points.
 **Benefit:** Lower participation barriers and clearer comparison of proposals.
-
-Assessment confidence and limits: Low-medium. This is a testable design hypothesis, not evidence that AI improves democratic legitimacy.
 
 ### Enablers
 | Enabler | Type | Status |
